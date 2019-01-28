@@ -1,0 +1,22 @@
+PDF 비교 웹사이트
+https://tools.pdf24.org/ko/compare-pdf
+
+로그 사용방법
+http://hamait.tistory.com/880
+
+프로그래밍 강의 -java, python
+https://www.inflearn.com/
+
+\\192.168.20.10\mrs_nas\기술연구소\STUDY
+
+crt 설치
+\\192.168.20.10\mrs_nas\프로그램\DEV TOOLS\SecureCRT\SecureCRT.7.2.5-550\VanDyke.SecureCRT.v7.2.5.550\VanDyke.SecureCRT.v7.2.5.550.x86.Incl.Patch.And.Keymaker-ZWT
+
+
+요구, 부탁-> 요청
+회의,     -> 미팅
+
+
+
+
+git 토큰 : ee3a2d27968e6edb140a28625c3ab65ef32126d6
